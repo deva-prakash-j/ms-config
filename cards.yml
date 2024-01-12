@@ -1,2 +1,4 @@
 build:
   info: "1.0"
+cards:
+  message: "Hi this is Deva"
