@@ -1,2 +1,4 @@
 build:
   info: "1.2"
+loans:
+  message: "Hi this is Deva"
