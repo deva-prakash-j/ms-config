@@ -8,6 +8,7 @@ spring:
     url: jdbc:mysql://89.116.33.142:3306/cardsdb?autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
     username: root
     password: DevaWebDev@2306
+    driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: true
   sql:
